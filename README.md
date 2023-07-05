@@ -5,11 +5,14 @@ Steampunk Mars Desktop Yahoo Widget, written in Javascript and XML for the Yahoo
 Widget (Konfabulator) Engine. Created for XP, Vista, Win7, 8, 10+ as well as the 
 Apple Mac.
 
+![mars](https://github.com/yereverluvinunclebert/Mars-Desktop-Widget/assets/2788342/7daa893b-3c74-4fa9-9f12-ac5166cb121e)
 
 This Mars Desktop Widget is an attractive dieselpunk Yahoo widget for your 
 desktop. This Konfabulator/ yahoo widget provides a simple static marble globe. 
 Functional and gorgeous at the same time. This Widget is a moveable widget that 
 you can move anywhere around the desktop as you require.
+
+![about](https://github.com/yereverluvinunclebert/Mars-Desktop-Widget/assets/2788342/ede9fbfb-a671-4000-b54d-efa8ad91e7b6)
 
 All javascript widgets need an engine to function, in this case the widget uses 
 the Yahoo Widget Konfabulator engine. The engine interprets the javascript and 
