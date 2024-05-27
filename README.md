@@ -5,6 +5,8 @@ Steampunk Mars Desktop Yahoo Widget, written in Javascript and XML for the Yahoo
 Widget (Konfabulator) Engine. Created for XP, Vista, Win7, 8, 10+ as well as the 
 Apple Mac.
 
+This widget is now deprecated and is retained for historical reasons only, it still works but time moves ever onward - please use the VB6 version instead that you will find here: https://github.com/yereverluvinunclebert/Mars-VB6-Widget
+
 ![mars](https://github.com/yereverluvinunclebert/Mars-Desktop-Widget/assets/2788342/7daa893b-3c74-4fa9-9f12-ac5166cb121e)
 
 This Mars Desktop Widget is an attractive dieselpunk Yahoo widget for your 
